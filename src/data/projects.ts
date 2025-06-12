@@ -34,7 +34,7 @@ The design process began with user research and competitive analysis, followed b
       "Secure checkout process",
       "Order tracking",
     ],
-    githubLink: "https://github.com/dewmirajapakshe/cosmetic-designs.git",
+    githubLink: "https://www.figma.com/design/JUs2eBNnPXJerUJ832loKR/Untitled?node-id=0-1&t=lCyh5a1K6TlGi9t5-1",
   },
   {
     id: "2",
